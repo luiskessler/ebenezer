@@ -1,3 +1,5 @@
+# WORK IN PROGRESS!!
+
 # Ebenezer: Neural Epistemic Stance Classification
 
 Research implementation of the epistemic stance classifier described in 
