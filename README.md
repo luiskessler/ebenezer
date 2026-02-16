@@ -94,4 +94,5 @@ This research was conducted as part of the Knovolo project. Special thanks to [a
 ---
 
 **Related Projects:**
-- [Knovolo](https://www.knovolo.com) - Geospatial intelligence infrastructure for event analysis
+- [Mordecai 3](https://github.com/ahalterman/mordecai3/) - Conceptual inspiration: Full text geoparsing and toponym resolution with hybrid neural architecture
+- [Knovolo](https://www.knovolo.com) - Multi-dimensional news analysis platform powered by Ebenezer
