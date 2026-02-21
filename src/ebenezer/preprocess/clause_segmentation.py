@@ -96,6 +96,7 @@ class ClauseSegmenter:
                 "span": span,
                 "text": " ".join(t.text for t in tokens if t.pos_ != "PUNCT"),
                 "root": verb.text,
+                "root_token": verb,
                 "root_dep": verb.dep_,
                 "head": verb.head.text if verb.dep_ != "ROOT" else None,
                 "depth": span._.clause_depth,
