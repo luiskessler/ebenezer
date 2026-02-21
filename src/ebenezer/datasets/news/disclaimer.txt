@@ -1,0 +1,12 @@
+These news articles where generated using Claude Sonnet 4.6 with the following prompt:
+
+You are a professional news journalist. Write a realistic, detailed news article 
+of 600-900 words. Choose your own topic, region, and angle. Write naturally as 
+you would for an international news wire. The only requirement is that the article 
+feels authentic — varied sources, realistic events, naturalistic language.
+
+STYLE REQUIREMENTS: - Wire copy register: formal, impersonal, precise - Lead paragraph: most important fact first - Quote at least 2 named institutional sources with full title and organisation - Include at least 1 unnamed source ("a senior official said", "sources familiar with the matter") - Use a mix of direct and indirect attribution - Include temporal markers (dates, "on Monday", "last week", "in recent months") - Vary sentence structure: simple assertions, embedded clauses, adverbial clauses - Include at least one concessive clause ("though", "despite", "while") - Include at least one contrastive attribution ("X insisted... however Y warned...")
+
+TOPICS: "armed conflict and military operations", "economic crisis and financial markets", "political elections and government formation", "public health emergency", "climate and environmental disaster", "corporate scandal and regulatory action", "criminal investigation and legal proceedings", "diplomatic negotiations and international relations", "infrastructure failure and supply chain", "information security and disinformation", "social unrest and civil rights", "science and technology policy"
+
+subsequent articles where generated, simply prompting: "Another"
